@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎯 C-Level — Negotiation Simulator
 
 An interactive **salary & career negotiation simulator** where you practice real scenarios with an AI counterpart. Get real-time tactical feedback after each move so you can sharpen your approach before the real conversation.
@@ -107,3 +108,6 @@ c-level/
 ## 📄 License
 
 Private — see repository settings.
+=======
+# C-Level---Negotiation-Simulator
+>>>>>>> d8781fa5f38854cbaf7deddb3359af71f92a7037
